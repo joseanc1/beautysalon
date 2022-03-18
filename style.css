@@ -424,6 +424,14 @@ nav.show div.icon-close {
   padding: 4rem 1rem;
 }
 
+.swiper-pagination {
+  position: inherit;
+  width: 52px;
+  height: 12px;
+  left: 657px;
+  top: 650px;
+}
+
 .swiper-pagination-bullet {
   width: 0.75rem;
   height: 0.75rem;
@@ -618,6 +626,14 @@ footer .social a:hover {
   #testimonials .container {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .swiper-pagination {
+    position: inherit;
+    width: 52px;
+    height: 12px;
+    left: 657px;
+    top: 654px;
   }
 
   /* contact */
